@@ -12,3 +12,4 @@ function filter (array){
 
 let resultado = filter([3, 12, 45, 7]);
 console.log(resultado);
+
